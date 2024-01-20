@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janahan Sivaneswaran</h1>
+<h1 align="center">Hey there, I'm Janahan Sivaneswaran</h1>
 <h3 align="center">I'm a Mechatronics Engineering & Management student at McMaster University!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeducc&label=Profile%20views&color=0e75b6&style=flat" alt="zeducc" /> </p>
