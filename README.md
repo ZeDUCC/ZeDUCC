@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Janahan Sivaneswaran</h1>
-<h3 align="center">Mechatronics Engineering & Management student at McMaster University</h3>
+<h3 align="center">I'm a Mechatronics Engineering & Management student at McMaster University!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeducc&label=Profile%20views&color=0e75b6&style=flat" alt="zeducc" /> </p>
 
+- 🔭 I’m currently working on **a Swift app that adds a social aspect to your music listening experience (repo going public soon!)**
+
+- 🌱 I’m currently learning **Spline for 3D assets, as well as the Motion One API for animations.**
+
 - 👨‍💻 All of my projects are available at [https://jsiva.com/](https://jsiva.com/)
 
-- 📫 How to reach me **sivanj07@gmail.com**
+- 💬 Ask me about **SEO, web development, machine learning in Python, and app development in Swift!**
+
+- 📫 Email me at **sivanj07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
