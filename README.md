@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Janahan Sivaneswaran</h1>
+<h1 align="center">Hey there, I'm Janahan Siva</h1>
 <h3 align="center">I'm a Mechatronics Engineering & Management student at McMaster University!</h3>
 
 - 🔭 I’m currently working on **a Swift app that adds a social aspect to your music listening experience (repo going public soon!)**
